@@ -1,12 +1,12 @@
 # ESET-KeyGen
-ESET-KeyGen - Trial-Key & Account generator for ESET Antivirus (last test was on 16.09.2024 at 15:20 UTC+3)
+ESET-KeyGen - Trial-Key & Account generator for ESET Antivirus (last test was on 14.09.2024 at 15:43 UTC+3)
 
 ![](img/project_preview.png)
 
 ---
 # If my page or project will be blocked, please refer to these links
-* My personal [Telegram](https://t.me/rzc0d3r)
-* My [public channel with archives of my projects](https://t.me/rzc0d3r_official)
+* My personal [Telegram](https://t.me/Tanha-Apu)
+* My [public channel with archives of my projects](https://t.me/Tanha-Apu_official)
 
 ---
 ### Project files are detected as viruses by ESET, this is not true!
@@ -26,7 +26,7 @@ That's it!
 # How to use
 
 ## Using GitHub Actions CI
-You can simply use the GitHub actions workflow given [here](https://github.com/rzc0d3r/ESET-KeyGen/blob/main/.github/workflows/eset.yml) in your GitHub repo.
+You can simply use the GitHub actions workflow given [here](https://github.com/Tanha-Apu/ESET-KeyGen/blob/main/.github/workflows/eset.yml) in your GitHub repo.
 
 Make a fork of my project. Go to it.
 Then goto the **Actions** tab, choose **Generator** actions and then run the workflow.
@@ -88,7 +88,7 @@ Delete your current ESET HOME account
 2. Do not create many license keys and accounts in a short period of time, otherwise you will be blocked in ESET HOME for a certain period of time
 3. If the program crashes after many attempts and you know that the program is up to date. Try using a VPN
 4. If an ACT0 error occurs during activation, check whether the ESET HOME account is connected. If so, disconnect it and try again.
-   If the error persists, try activating with [Account Generator](https://github.com/rzc0d3r/ESET-KeyGen/blob/main/wiki/AccountGenerator.md).
+   If the error persists, try activating with [Account Generator](https://github.com/Tanha-Apu/ESET-KeyGen/blob/main/wiki/AccountGenerator.md).
    If still getting this error reinstall ESET and try again.
 5. Found an activation error under the code ecp4125, which appears when you try to activate the antivirus with an account.
    Perhaps not everyone has it error, but still try it, and if it does not work, use the keys. 
